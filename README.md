@@ -4,7 +4,6 @@
 Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 </h2>
 
-##
 
  🌱 Atualmente estudando Python
  
