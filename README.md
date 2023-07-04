@@ -1,11 +1,21 @@
-## Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
+<div align="center"> 
+  Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
+</div>
+
+##
+
 
  🌱 Atualmente estudando Python
  
  ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAguilar&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAguilar&layout=compact&theme=cobalt)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurAguilar&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00FFFF&text_color=DCDCDC&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAguilar&layout=compact&hide_border=true&title_color=00CED1&text_color=DCDCDC&bg_color=0d1117" />
+</div>
+
 
 ##
 
