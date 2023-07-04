@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 <h2 align="center"> 
+
 Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
+ 
 </h2>
 
 
@@ -12,9 +14,9 @@ Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 <div align="center">  
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurAguilar&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00FFFF&text_color=DCDCDC&bg_color=000000" alt="Caroline Barbosa github stats" /> 
     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAguilar&layout=compact&hide_border=true&title_color=00CED1&text_color=DCDCDC&bg_color=000000" />
+ 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurAguilar&bg_color=000000&color=00CED1&line=00ffe1&point=00CED1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
