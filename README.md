@@ -1,6 +1,8 @@
 ## Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 
- 🌱 Estudante de programação, atualmente sendo a linguagem Python 
+ 🌱 Atualmente estudando Python
+ 
+ ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAguilar&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAguilar&layout=compact&theme=cobalt)
