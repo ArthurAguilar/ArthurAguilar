@@ -7,7 +7,7 @@ Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 </h2>
 
 
- 🌱 Atualmente estudando Python
+ 🌱 Atualmente estudando Python e JavaScript!
  
 ##
 
@@ -21,7 +21,8 @@ Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 ##
 
 <div>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+    <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
