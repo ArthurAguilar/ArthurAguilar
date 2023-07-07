@@ -11,8 +11,8 @@ Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 ##
 
 <div align="center">  
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurAguilar&hide=issues,contribs&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00FFFF&text_color=DCDCDC&bg_color=000000" alt="Arthur Aguilar github stats" /> 
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAguilar&hide=&layout=compact&hide_border=true&title_color=00CED1&text_color=DCDCDC&bg_color=000000" />
+     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurAguilar&hide=issues,contribs&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00FFFF&text_color=DCDCDC&bg_color=000000" alt="Arthur Aguilar github stats" /> 
+    <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAguilar&hide=&layout=compact&hide_border=true&title_color=00CED1&text_color=DCDCDC&bg_color=000000" />
  
 </div>
 
