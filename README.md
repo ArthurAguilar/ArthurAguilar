@@ -6,9 +6,7 @@ Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
  
 </h2>
 
- 📚 Atualmente estudando Python e JavaScript
- ##
- 
+ 📚 Atualmente estudando Python e JavaScript <br>
  📚 Cursando Análise e Desenvolvimento de Sistemas
  
 ##
