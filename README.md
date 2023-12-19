@@ -35,9 +35,4 @@ Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
   <a href="https://www.linkedin.com/in/arthur-aguilar-1ba496282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center"> 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
-</div>
-
-
-
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
