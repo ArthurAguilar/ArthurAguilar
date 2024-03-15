@@ -5,11 +5,10 @@
 </h2>
 
  📚 Atualmente estudando JavaScript <br>
- 📚 Cursando Análise e Desenvolvimento de Sistemas
+ 📚 Cursando Análise e Desenvolvimento de Sistemas <br><br>
+ 📚 Estudando ReactJS no momento.
  
  ##
-
- 📚 Estudando ReactJS no momento.
  
 <div align="right">
    <img align="center" alt="Arthur-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
