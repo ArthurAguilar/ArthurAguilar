@@ -6,7 +6,7 @@
 
  📚 Atualmente estudando JavaScript <br>
  📚 Cursando Análise e Desenvolvimento de Sistemas <br><br>
- 📚 Estudando React no momento.
+ 📚 Estudando ReactJs e MySQL no momento.
  
  ##
  
