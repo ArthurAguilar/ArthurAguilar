@@ -4,10 +4,9 @@
     Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 </h2>
 
- 📚 Atualmente estudando JavaScript <br>
- 📚 Cursando Análise e Desenvolvimento de Sistemas <br><br>
- 📚 Estudando ReactJs e Java no momento.
- 
+ 📚 Estudando ReactJs e Java no momento. <br>
+ 📚 Cursando Análise e Desenvolvimento de Sistemas <br>
+    
  ##
  
 <div align="right">
