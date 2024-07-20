@@ -5,7 +5,7 @@
 </h2>
 
  📚 Estudando Java no momento. <br>
- 📚 Cursando Análise e Desenvolvimento de Sistemas. <br>
+ 📚 Cursando Análise e Desenvolvimento de Sistemas.  <br>
     
  ## 
  
