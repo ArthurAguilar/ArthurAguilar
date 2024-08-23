@@ -4,9 +4,8 @@
     Olá!! Me chamo Arthur Aguilar e sou estudante de programação!
 </h2>
 
- 📚 Estudando Java e um cadinho de C# no momento.
- <br>
- 📚 Cursando Análise e Desenvolvimento de Sistemas.  <br>
+ 📚 Estudando Java e um cadinho de C# no momento.  <br>
+ 📚 Cursando Análise e Desenvolvimento de Sistemas.   <br>
     
  ## 
  
